@@ -12,12 +12,13 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
     - [ ] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
-    - [ ] Undecided
+    - [√] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+To learn knowledge.
 4. What, if anything, are you nervous about for this class?
-
+yes, because it is my first time been to the US and university
 ## Prior Experience
 
 The next questions ask about what (if any) prior experience you have. This class assumes students have no prior knowledge, so don’t worry if you have 0 experience programming or with game development! Just write 0 or N/A under the headers. These questions are JUST for us to get an overall picture of the class's experience level so that we can make sure to be meeting you all where you are.
@@ -25,8 +26,10 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+Java script, pyhthon
 
 2. Game development (any engine)
+UE
 
 3. Unity
 
@@ -39,7 +42,7 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. Game design documentN/A
 
 2. Scope management
 
@@ -48,6 +51,7 @@ For the next questions, a programming or game development concept is presented:
 4. Object-Oriented programming
 
 5. Model-View-Controller architecture
+I wanna design a game like Starcitizen
 
 ## Complete!
 
